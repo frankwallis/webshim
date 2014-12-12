@@ -33,7 +33,7 @@
   "development": {
     "main": "js-webshim/dev/polyfiller.js",
     "scripts": ["js-webshim/dev/polyfiller.js"],
-    "files": ["js-webshim/dev/**.js"],
+    "files": ["js-webshim/dev/**.js"]
   },
   "license": "MIT"
 }
