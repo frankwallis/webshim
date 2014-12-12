@@ -1,10 +1,6 @@
 {
   "name": "webshim",
-  "repository": "frankwallis/webshim",
-  "description": "Webshims Lib is a modular capability-based polyfill-loading library",
-  "version": "master",
-  "dependencies": {
-  },
+   "description": "Webshims Lib is a modular capability-based polyfill-loading library",
   "main": "js-webshim/minified/polyfiller.js",
   "scripts": ["js-webshim/minified/polyfiller.js"],
   "files": ["js-webshim/minified/shims/**/*.js"],
